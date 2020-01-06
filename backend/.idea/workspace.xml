@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dec6562e-bf93-4c8a-8b27-f9f8285f748c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Pipfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/settings.py" afterDir="false" />
@@ -231,12 +232,12 @@
       <updated>1577561598869</updated>
       <workItem from="1577561610705" duration="3015000" />
       <workItem from="1578168410322" duration="3792000" />
-      <workItem from="1578257312579" duration="911000" />
+      <workItem from="1578257312579" duration="1134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7718000" />
+    <option name="totallyTimeSpent" value="7941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
